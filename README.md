@@ -35,7 +35,7 @@ Critical Thinking, Leadership, Adaptability, Team Collaboration
 ## 🏆 Achievements
 
 - 🎖 Finalist at Darshan University Hackathon, Frolic 2024, Hackout DAIICT, iFest, and more
-- 🏅 AIR 1491 in GATE 2025 (Data Science & AI)
+- 🏅 AIR 14911 in GATE 2025 (Data Science & AI)
 - 🥈 NPTEL Silver Elite in Python for Data Science
 - 🎓 Google Data Analytics Certified (Coursera)
 - 🎯 Campus Ambassador for Synapse 2024 & 2025
