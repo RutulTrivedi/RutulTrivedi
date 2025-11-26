@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rutul Trivedi
 
-🎓 **Final-year B.Tech student** in Computer Science at **Darshan University**, CGPA: **9.58**
+🎓 **Final-year B.Tech student** in Computer Science Engineering, CGPA: **9.41**
 
 💡 I’m passionate about building smart, real-world applications using **Flutter**, **Node.js**, and **Python/Machine Learning**. Whether it’s mobile apps or web platforms, I love turning ideas into useful products that make a difference.
 
