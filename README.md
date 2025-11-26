@@ -6,19 +6,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 📱 [Learn ML](https://play.google.com/store/apps/details?id=com.rutultrivedi1404.learn_ml)
-An educational Android app built using **Flutter**, **Node.js**, and **MongoDB** to help users understand core ML concepts and algorithms interactively — includes quizzes, star ratings, pie chart analytics, and clean UI/UX.
-
-### 📦 [InvManage](https://inv-manage-seven.vercel.app/)
-A full-stack **inventory management system** built with **React.js**, **Node.js**, and **MongoDB**. Features advanced inventory tracking, responsive admin dashboard, authentication, empty state illustrations, and more.
-
-### 📖 [Geeta Path](https://play.google.com/store/apps/details?id=com.rutultrivedi1404.geeta_path)
-An Android app providing the complete **Shrimad Bhagavad Geeta** in Sanskrit and Hindi with offline support. Built with **Flutter**, **Node.js**, and **MongoDB**, it delivers seamless access to all 700 verses and 18 chapters.
-
----
-
 ## 🧠 Skills
 
 **Languages & Frameworks:**  
