@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Languages :** Java, Python, C, JavaScript, C#
 <br/><br/>
@@ -29,26 +29,3 @@
 **Coursework :** Data Structures, Algorithms, DBMS, Machine Learning, Data Science and Data Mining
 
 **Area of Interest :** Full-Stack Development, Machine Learning, Data Analysis 
-
----
-
-## 🏆 Achievements
-
-- 🎖 Finalist in some Hackathons, Frolic 2024, Hackout DAIICT, iFest, and more
-- 🏅 AIR 14911 in GATE 2025 (Data Science & AI)
-- 🥈 NPTEL Silver Elite in Python for Data Science
-- 🎓 Google Data Analytics Certified (Coursera)
-- 🎯 Campus Ambassador for Synapse 2024 & 2025
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rutul-trivedi-82869024b/)
-- 📊 [Kaggle](https://www.kaggle.com/rutultrivedi)
-- 🧠 [Leetcode](https://leetcode.com/u/rutultrivedi7/)
-- 🧑‍💻 [GitHub](https://github.com/RutulTrivedi)
-
----
-
-> 💬 *“With the right mentorship and environment, I’m confident I can evolve into a strong asset who not only delivers results but also inspires innovation around me.”*
